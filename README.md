@@ -1,7 +1,7 @@
 # Spring NE 424 Project
-Kyle Blomstrand
-Ryan Carroll
-Calvin Parkin
+Kyle Blomstrand,
+Ryan Carroll,
+Calvin Parkin,
 
 ## Chromium Coated Zirconium
 
